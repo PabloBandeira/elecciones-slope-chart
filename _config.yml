@@ -1,0 +1,13 @@
+# El nombre de nuestro sitio
+# va a mostrarse en la barra de navegación superior
+name: AIBA
+
+# Descripción de nuestro sitio
+# va a mostrarse en la barra de navegación superior
+description:
+  En mi blog podrán encontrar todo tipo de información
+  útil sobre cosas.
+
+# URL del logo del blog
+# va a mostrarse en la barra de navegación superior
+# avatar: https://raw.githubusercontent.com/[usuario]/[usuario].github.io/master/images/logo.png
