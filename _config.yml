@@ -11,3 +11,6 @@ description:
 # URL del logo del blog
 # va a mostrarse en la barra de navegación superior
 # avatar: https://raw.githubusercontent.com/[usuario]/[usuario].github.io/master/images/logo.png
+
+# Este valor se usa para generar la navegación interna del sitio
+url: https://aiba.com.ar
